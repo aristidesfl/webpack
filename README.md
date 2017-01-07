@@ -1,4 +1,6 @@
-# vue-webpack-boilerplate
+# vue-webpack-coffee
+
+> Based on vuejs-templates/webpack with coffee enabled (WIP)
 
 > A full-featured Webpack setup with hot-reload, lint-on-save, unit testing & css extraction.
 
